@@ -1,0 +1,6 @@
+c = or(A, B); d = and(A, B);
+e = not(A);f = not(B);
+g = or(e, f);
+h = and(e, f);
+I = and(c, g);
+J = or(d, h)
